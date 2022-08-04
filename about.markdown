@@ -4,15 +4,17 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+## Welcome to devinan.github.io
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+### Software Engineer
+- 🌐 Blog : [devinan.github.io](https://devinan.github.io)
+- 👩‍💻 GitHub : [github/devinan](https://github.com/devinan)
+- 💌 E-mail : [devinan.hr@gmail.com](mailto:devinan.hr@gmail.com)
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+---
+#### Table of Contents
 
-
-[jekyll-organization]: https://github.com/jekyll
+* [Programming](/tech-stack)
+* [Law](/technical-writing)
+* [Side Project](/tech-interview)
+* [TIL](/study-guide)
