@@ -14,7 +14,4 @@ permalink: /about/
 ---
 #### Table of Contents
 
-* [Programming](/tech-stack)
-* [Law](/technical-writing)
-* [Side Project](/tech-interview)
-* [TIL](/study-guide)
+* [TIL](/tils)
