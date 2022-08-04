@@ -14,4 +14,4 @@ permalink: /about/
 ---
 #### Table of Contents
 
-* [TIL](/tils)
+* [TIL](/docs/tils)
