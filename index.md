@@ -4,7 +4,7 @@ title: Home
 nav_order: 1
 description: "Welcome devinan Dev Blog."
 permalink: /
-last_modified_date: "now"
+last_modified_date: "Aug 07 2022 +0900"
 ---
 
 # Welcome to Devinan Dev Blog!
@@ -19,4 +19,4 @@ last_modified_date: "now"
 
 ## Getting started
 
-- 죄송합니다. 현재 블로그를 개설을 준비 하고 있습니다. 8/8일에 오픈 예정입니다.
+- 죄송합니다. 현재 블로그를 개설을 준비 하고 있습니다. 8/8일에 오픈 예정입니다..
