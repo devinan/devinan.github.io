@@ -4,6 +4,7 @@ title: Home
 nav_order: 1
 description: "Welcome devinan Dev Blog."
 permalink: /
+last_modified_date: "now"
 ---
 
 # Welcome to Devinan Dev Blog!
