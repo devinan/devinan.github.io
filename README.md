@@ -17,3 +17,7 @@
 <h3> Github Challenge</h3>
   
 ![github-trophy](https://github-profile-trophy.vercel.app/?username=devinan&theme=darkhub)
+
+## Blog
+
+- 8/8일 오픈 예정
