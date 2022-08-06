@@ -4,7 +4,7 @@ title: Home
 nav_order: 1
 description: "Welcome devinan Dev Blog."
 permalink: /
-last_modified_date: "now+09:00"
+last_modified_date: "Aug 07 2022 +0900"
 ---
 
 # Welcome to Devinan Dev Blog!
