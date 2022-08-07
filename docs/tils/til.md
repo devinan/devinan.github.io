@@ -4,6 +4,7 @@ title: TIL
 nav_order: 8
 has_children: true
 permalink: /docs/tils
+comment: false
 ---
 
 # TIL(today I learned)
