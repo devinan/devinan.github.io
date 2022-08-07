@@ -5,6 +5,7 @@ nav_order: 1
 description: "Welcome devinan Dev Blog."
 permalink: /
 last_modified_date: "Aug 07 2022 +0900"
+comment: false
 ---
 
 # Welcome to Devinan Dev Blog!
