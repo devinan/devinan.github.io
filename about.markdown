@@ -2,7 +2,7 @@
 layout: page
 title: About
 permalink: /about/
-comment: false
+comment: true
 ---
 
 ## Welcome to devinan.github.io
