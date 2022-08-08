@@ -2,7 +2,7 @@
 
 All notable changes to this project are documented in this file.
 
-*Note:* the project underwent a maintenance shift in the creation of v0.4.0.
+*Note:* 현재 프로젝트는 v1.1.0을 진행하고 있습니다.
 
 ## v1.0.0
 
