@@ -1,7 +1,7 @@
 ---
 layout: default
 title: TIL
-nav_order: 8
+nav_order: 3
 has_children: true
 permalink: /docs/tils
 comment: false
