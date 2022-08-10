@@ -3,7 +3,7 @@ layout: default
 title: TIL
 nav_order: 3
 has_children: true
-permalink: /docs/tils
+permalink: tils
 comment: false
 ---
 
