@@ -3,7 +3,7 @@ layout: default
 title: Side Project
 nav_order: 2
 has_children: false
-permalink: /docs/side-project
+permalink: side-project
 comment: false
 ---
 
