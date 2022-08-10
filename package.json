@@ -1,10 +1,10 @@
 {
-  "name": "just-the-docs",
-  "version": "0.3.3",
-  "description": "A modern Jekyll theme for documentation",
-  "repository": "just-the-docs/just-the-docs",
+  "name": "devinan.github.io",
+  "version": "1.0.2",
+  "description": "Devinan dev Blog",
+  "repository": "devinan/devinan.github.io",
   "license": "MIT",
-  "bugs": "https://github.com/just-the-docs/just-the-docs/issues",
+  "bugs": "https://github.com/devinan/devinan.github.io/issues",
   "devDependencies": {
     "stylelint": "^13.7.2",
     "@primer/css": "^15.2.0",
