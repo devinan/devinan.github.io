@@ -22,6 +22,7 @@
       gtag('js', new Date());
 
       gtag('config', '{{ site.ga_tracking }}'{% unless site.ga_tracking_anonymize_ip == nil %}, { 'anonymize_ip': true }{% endunless %});
+      gtag('config', '{{ site.ga_measurement }}');
     </script>
 
   {% endif %}
